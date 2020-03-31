@@ -1,2 +1,2 @@
-from animals import Mammals
+from mammals import Mammals
 from birds import Birds
